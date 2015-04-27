@@ -1,0 +1,77 @@
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Colleen McGinnis</title>
+
+    <link rel="shortcut icon" href="/favicon.png">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://bootswatch.com/yeti/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    
+  </head>
+<body>
+  <div class='container'>
+  <img style="padding:10px" src="images/colleenmcginnis.png"/></li>
+  <ul class="nav nav-pills" style="float:right;padding-top:20px">
+  <li role="presentation"><a href="#">Home</a></li>
+  <li role="presentation" class="active"><a href="#">Work</a></li>
+  <li role="presentation"><a href="#">About</a></li>
+  </ul>      
+    <div class="page-header">
+  <h1>Work Samples</h1><p><font color="6C8051">Design</font> / <font color="A39358">Research</font> / <font color="9F4936">Architecture</font></p>
+</div>
+    <div class='row'>
+      <div class="col-xs-6 col-md-4">
+      <a href="hex.html" class="thumbnail">
+      <img class="grayscale" src="images/biennial_thumbnail.png">
+    	</a><h5><font color="9F4936">Chicago Architecture Biennial</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="microgrid.html" class="thumbnail">
+      <img class="grayscale" src="images/microgrid_thumbnail.png">
+    	</a><h5><font color="6C8051">Museum Campus Microgrid</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="proxy.html" class="thumbnail">
+      <img class="grayscale" src="images/proxy_thumbnail.jpg">
+    	</a><h5><font color="A39358">Public Interest Design</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="bachelor.html" class="thumbnail">
+      <img class="grayscale" src="images/bachelor_thumbnail.jpg">
+    	</a><h5><font color="9F4936">Bachelor Hall Atrium</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="p4p.html" class="thumbnail">
+      <img class="grayscale" src="images/p4p_thumbnail.jpg">
+    	</a><h5><font color="9F4936">Pay for Performance</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="impact.html" class="thumbnail">
+      <img class="grayscale" src="images/impact_thumbnail.jpg">
+    	</a><h5><font color="9F4936">Impact Map</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="#" class="thumbnail">
+      <img class="grayscale" src="images/placeholder_thumbnail.jpg">
+    	</a><h5><font color="A39358">Healthy School Campus</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="reclaimed.html" class="thumbnail">
+      <img class="grayscale" src="images/reclaimed_thumbnail.png">
+    	</a><h5><font color="6C8051">Reclaimed Water Project</font></h5></div>     
+      <div class="col-xs-6 col-md-4">
+      <a href="light.html" class="thumbnail">
+      <img class="grayscale" src="images/light_thumbnail.jpg">
+    	</a><h5><font color="9F4936">Light of Tomorrow</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="#" class="thumbnail">
+      <img class="grayscale" src="images/watershed_thumbnail.png">
+    	</a><h5><font color="A39358">Watershed Education Center</font></h5></div>
+      <div class="col-xs-6 col-md-4">
+      <a href="#" class="thumbnail">
+      <img class="grayscale" src="images/clifton_thumbnail.jpg">
+    	</a><h5><font color="6C8051">Clifton Branch Library</font></h5></div>    
+   	  <div class="col-xs-6 col-md-4">
+      <a href="ecology.html" class="thumbnail">
+      <img class="grayscale" src="images/ecology_thumbnail.png">
+    	</a><h5><font color="6C8051">Ecology of Aesthetics</font></h5></div>  
+    </div>
+  </div>
+    </body>
+</html>
